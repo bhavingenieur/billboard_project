@@ -17,6 +17,6 @@ We have only taken solo entries and ignored collaborations as they are quite inf
 We used Plot.Ly to draw a ScatterPlot of the top 10 artists. It is viewable here:
 https://plot.ly/~vbhavin/50.embed
 
-In case you are curious, here they are(Top 20):
+In case you are curious, here they are(Top 20 with the artist name and total singles):
 
 [('Taylor Swift', 20), ('Rihanna', 17), ('Katy Perry', 14), ('Beyoncé', 11), ('Pink', 11), ('Maroon 5', 10), ('Britney Spears', 10), ('Lady Gaga', 10), ('Drake', 10), ('Adele', 10), ('Miley Cyrus', 9), ('Kelly Clarkson', 8), ('The Black Eyed Peas', 8), ('Jason Derulo', 8), ('Bruno Mars', 8), ('Ne-Yo', 7), ('Chris Brown', 7), ('OneRepublic', 7), ('Luke Bryan', 7), ('Justin Timberlake', 6)]
